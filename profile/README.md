@@ -14,21 +14,31 @@ Discusses Web development for sites that are dynamic, data driven, and interacti
 ## Typical Schedule 
 Note: Schedule and topics may vary based on the semester.
 
+Topics can be broken up into four units:
+* Basic HTML and Static Websites
+* Dynamic Websites with Server Side Rendering
+* Single Page Applications
+* More Advanced topics / exploratory topics
 
-| Week | Topics | Assignments |
-| :--: |  :---: | :---------: |
-| 1    |  Introduction to WWW<br>Development Environment |   |
-| 2    |  HTML, CSS, Java/Typescript                     |   |
-| 3    |  Responsive Interfaces                          |   |
-| 4    |  Server Side Rendering and Routing              |   |
-| 5    |  Templates and JSON                             |   |
-| 6    |  Working with forms and payload data            |   |
-| 7    |  Authentication and State                       |   |
-| 8    |  Data Management, DAOs                          |   |
-| 9    |  Building APIs, Swagger, OpenAPI                |   |
-| 10   |  Single Page Applications                       |   |
-| 11   |  REACT.js render and components                 |   |
-| 12   |  Using third party API                          |   |
-| 13   |  Local storage and synchronizations             |   |
-| 14   |  Manifest Files, Web Assembly                   |   |
-| 15   |  Grading Week / Final Projects                  | - |
+| Week | Topics | Labs | Assignments |
+| :--: |  :---: | :-----:| :---------: |
+| 1    |  Introduction to WWW<br>Development Environment |   |     |
+| 2    |  HTML, CSS, Java/Typescript                     |   |     |
+| 3    |  Responsive Interfaces                          |   |     |
+| 4    |  Server Side Rendering and Routing              |   |     | 
+| 5    |  Templates and JSON                             |   |     |
+| 6    |  Working with forms and payload data            |   |     |
+| 7    |  Authentication and State                       |   |     |
+| 8    |  Data Management, DAOs                          |   |     |
+| 9    |  Building APIs, Swagger, OpenAPI, PaaS          |   |     |
+| 10   |  Single Page Applications                       |   |     |
+| 11   |  Application Frameworks (REACT, Angular, etc)   |   |     |
+| 12   |  Using third party APIs                         |   |     |
+| 13   |  Local storage and synchronizations             |   |     |
+| 14   |  Manifest Files, Web Assembly                   |   |     |
+| 15   |  Grading Week / Final Projects                  | - |     |
+
+### Common Forms of Assessments:
+* Weekly labs - smaller tutorial like projects
+* Assignments - smaller multi week projects covering each unit
+* Final Project - a larger comprehensive assignment
