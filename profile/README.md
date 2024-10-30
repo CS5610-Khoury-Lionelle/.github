@@ -22,21 +22,21 @@ Topics can be broken up into four units:
 
 | Week | Topics | Labs | Assignments |
 | :--: |  :---: | :-----:| :---------: |
-| 1    |  Introduction to WWW<br>Development Environment |   |     |
-| 2    |  HTML, CSS, Java/Typescript                     |   |     |
-| 3    |  Responsive Interfaces                          |   |     |
-| 4    |  Server Side Rendering and Routing              |   |     | 
-| 5    |  Templates and JSON                             |   |     |
-| 6    |  Working with forms and payload data            |   |     |
-| 7    |  Authentication and State                       |   |     |
-| 8    |  Data Management, DAOs                          |   |     |
-| 9    |  Building APIs, Swagger, OpenAPI, PaaS          |   |     |
-| 10   |  Single Page Applications                       |   |     |
-| 11   |  Application Frameworks (REACT, Angular, etc)   |   |     |
-| 12   |  Using third party APIs                         |   |     |
-| 13   |  Local storage and synchronizations             |   |     |
-| 14   |  Manifest Files, Web Assembly                   |   |     |
-| 15   |  Grading Week / Final Projects                  | - |     |
+| 1    |  Introduction to WWW<br>Development Environment |   |  A1   |
+| 2    |  HTML, CSS, Java/Typescript                     |   |       |
+| 3    |  Responsive Interfaces                          |   |       |
+| 4    |  Server Side Rendering and Routing              |   |  A2   | 
+| 5    |  Templates and JSON                             |   |       |
+| 6    |  Working with forms and payload data            |   |       |
+| 7    |  Authentication and State                       |   |  A3   |
+| 8    |  Data Management, DAOs                          |   |       |
+| 9    |  Building APIs, Swagger, OpenAPI, PaaS          |   |       |
+| 10   |  Single Page Applications                       |   |  Final|
+| 11   |  Application Frameworks (REACT, Angular, etc)   |   |       |
+| 12   |  Using third party APIs                         |   |       |
+| 13   |  Local storage and synchronizations             |   |       |
+| 14   |  Manifest Files, Web Assembly                   |   |       |
+| 15   |  Grading Week / Final Projects                  | - |       |
 
 ### Common Forms of Assessments:
 * Weekly labs - smaller tutorial like projects
