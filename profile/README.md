@@ -22,8 +22,8 @@ Topics can be broken up into four units:
 
 | Week | Topics | Labs | Assignments |
 | :--: |  :---: | :-----:| :---------: |
-| 1    |  Introduction to WWW<br>Development Environment |   |  A1   |
-| 2    |  HTML, CSS, Java/Typescript                     |   |       |
+| 1    |  Introduction to WWW<br>Development Environment |  n/a |  A1   |
+| 2    |  HTML, CSS, Java/Typescript                     | [Magic Eight Ball]  |       |
 | 3    |  Responsive Interfaces                          |   |       |
 | 4    |  Server Side Rendering and Routing              |   |  A2   | 
 | 5    |  Templates and JSON                             |   |       |
@@ -42,3 +42,8 @@ Topics can be broken up into four units:
 * Weekly labs - smaller tutorial like projects
 * Assignments - smaller multi week projects covering each unit
 * Final Project - a larger comprehensive assignment
+
+
+
+
+[Magic Eight Ball]: https://github.com/CS5610-Khoury-Lionelle/LabMagicEightBall/tree/main/Instructions
